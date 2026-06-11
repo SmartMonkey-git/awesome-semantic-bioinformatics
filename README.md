@@ -3,10 +3,10 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 
 ## Table of Contents
 - [Infrastructure](#infrastructure)
-- [Phenpacket Curation](#phenpacket-curation)
+- [Phenpacket Curation](#phenopacket-curation)
 - [Text Mining](#text-mining)
 - [Semantic Similarity](#semantic-similarity)
-- [Discoveries](#discoveries)
+- [Statistical Tools](#statistical-tools)
 - [Visualization](#visualization)
 - [Resources](#resources)
 

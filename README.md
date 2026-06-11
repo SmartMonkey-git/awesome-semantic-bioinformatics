@@ -73,7 +73,7 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 
 ## Ontologies
 - [HPO](https://github.com/obophenotype/human-phenotype-ontology) - The Human Phenotype Ontology (HPO) provides a standardized vocabulary of phenotypic abnormalities encountered in human disease.
-- [MONDO](https://github.com/monarch-initiative/monarch-disease-ontology-RETIRED) - MonDO (Monarch Disease Ontology) is a semi-automatically constructed ontology that merges in multiple disease resources to yield a coherent merged ontology.
+- [MONDO](https://github.com/monarch-initiative/mondo) - MonDO (Monarch Disease Ontology) is a semi-automatically constructed ontology that merges in multiple disease resources to yield a coherent merged ontology.
 - [MAxO](https://github.com/monarch-initiative/MAxO) - The Medical Action Ontology (MAxO) provides a broad view of medical actions and includes terms for medical procedures, interventions, therapies, treatments, and recommendations.
 - [Gene Ontology (GO)](https://github.com/geneontology/go-ontology) - The foundational resource for computational biology, providing a framework for the model of biology defining gene functions across species.
 - [UBERON](https://github.com/obophenotype/uberon) - An integrated cross-species anatomy ontology representing a variety of entities classified according to traditional anatomical criteria. Highly synergistic with HPO and MONDO.

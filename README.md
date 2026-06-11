@@ -1,26 +1,36 @@
 Awesome Semantic Bioinformatics is a collection of tools, libraries, data standards, and repositories aimed at bridging the gap between the Semantic Web, knowledge graphs, and the biological sciences.
 
-# Infrastructure
+## Infrastructure
 ### Rust
 - [ontology-registry](https://github.com/P2GX/ontology-registry) - Thread-safe, atomic downloading and local caching of OBO/BioRegistry files.
 - [ontolius](https://github.com/ielis/ontolius) - A fast and safe crate for working with biomedical ontologies.
+- [fastobo](https://github.com/fastobo/fastobo) - An OBO format parser and abstract syntax tree crate for Rust. Highly synergistic with tools like ontolius.
 - [phenoboard](https://github.com/P2GX/phenoboard) - Curation of individuals with Human Phenotype Ontology and GA4GH Phenopacket Schema.
 - [PhenoXtract](https://github.com/P2GX/PhenoXtract) - PhenoXtract is a configurable ETL (Extract-Transform-Load) pipeline and crate written in Rust for converting tabular data sources (e.g. CSV or Excel) into Phenopackets v2.0.
 - [securiety](https://github.com/SmartMonkey-git/securiety) - A robust Rust crate for parsing and validating or parsing Compact Uniform Resource Identifiers (CURIEs).
-- 
+
 ### Python
 - [RareLink](https://github.com/BIH-CEI/rarelink) - A REDCap-based framework for rare disease interoperability linking international registries to HL7 FHIR and GA4GH Phenopackets.
 - [hpo-toolkit](https://github.com/ielis/hpo-toolkit) - A toolkit for working with Human Phenotype Ontology (HPO) and HPO disease annotations in Python.
 - [OVEr](https://github.com/P2GX/OVEr) - OVEr converts biomedical ontologies into semantic vector embedding databases, enabling accurate ontology term retrieval through natural language similarity search.
+- [oaklib](https://pypi.org/project/oaklib/) - Ontology Access Kit (OAK): A powerful Python library by the Monarch Initiative for accessing, querying, and manipulating ontologies.
+- [pronto](https://github.com/althonos/pronto) - A highly popular Python frontend to ontologies, designed to seamlessly parse OBO and OWL formats into Python objects.
+- [pyobo](https://github.com/biopragmatics/pyobo) - A comprehensive tool for downloading, standardizing, and accessing nomenclature from OBO ontologies.
 
-# Text Mining
+### Java
+- [ROBOT](https://github.com/ontodev/robot) - The definitive command-line tool for working with OWL ontologies. It is the gold standard used by the OBO Foundry for ontology automated builds and CI/CD pipelines.
+
+### Agnostic
+- [BioRegistry](https://github.com/biopragmatics/bioregistry) - A community-driven integrative meta-registry of life science databases, ontologies, and other resources.
+
+## Text Mining
 ### Rust
 - [fenominal](https://github.com/P2GX/fenominal) - NLP tool to extract ontology terms from free text based on the BLAST algorithm
 
 ### Python
 - [DEFTMatcher](https://github.com/psnairne/DEFTMatcher) - Dextrous and Extensible Free Text Matcher
 
-# Semantic Similarity
+## Semantic Similarity
 ### Rust
 - [Phrank](https://github.com/SmartMonkey-git/phrank-rs) - Phrank is a high-performance, phenotype-driven similarity engine designed to calculate the similarity between patient cohorts.
 
@@ -28,7 +38,7 @@ Awesome Semantic Bioinformatics is a collection of tools, libraries, data standa
 - [Phrank](https://github.com/SmartMonkey-git/phrank-rs) - Phrank is a high-performance, phenotype-driven similarity engine designed to calculate the similarity between patient cohorts.
 - [setsim](https://github.com/P2GX/setsim) - A proof of concept of the summing similarity measure.
 
-# Discoveries
+## Discoveries
 ### Rust
 - [Ontologizer](https://github.com/P2GX/ontologizer) - Fast and safe implementation of the Ontologizer — a tool for Gene Ontology (GO) enrichment analysis using Frequentist (hypergeometric test) or Bayesian (inference) methods.
 
@@ -40,14 +50,18 @@ Awesome Semantic Bioinformatics is a collection of tools, libraries, data standa
 - [Exomizer](https://github.com/P2GX/Exomiser) - A Tool to Annotate and Prioritize Exome Variants
 - [LIRICAL](https://github.com/TheJacksonLaboratory/LIRICAL) - LIRICAL (LIkelihood Ratio Interpretation of Clinical AbnormaLities) is designed to provide clinically interpretable computational analysis of phenotypic abnormalities.
 
-# Visualization
+## Visualization
 ### Python
 - [phenoblend](https://github.com/P2GX/phenoblend) - Phenoblend is an HPO-based phenotype–genotype visualization library.
 
-# Standards
+## Standards
 - [Phenopackets](https://github.com/ga4gh/phenopacket-schema) - An open standard for sharing disease and phenotype information.
+- [Biolink Model](https://github.com/biolink/biolink-model) - A high-level, open-source data model for the standardization of biological and biomedical knowledge graphs.
+- [OBO Foundry](https://github.com/OBOFoundry/OBOFoundry.github.io) - The Open Biological and Biomedical Ontology (OBO) Foundry principles, which set the gold standard for interoperable biological ontologies.
 
-# Ontologies
+## Ontologies
 - [HPO](https://github.com/obophenotype/human-phenotype-ontology) - The Human Phenotype Ontology (HPO) provides a standardized vocabulary of phenotypic abnormalities encountered in human disease.
 - [MONDO](https://github.com/monarch-initiative/monarch-disease-ontology-RETIRED) - MonDO (Monarch Disease Ontology) is a semi-automatically constructed ontology that merges in multiple disease resources to yield a coherent merged ontology.
 - [MAxO](https://github.com/monarch-initiative/MAxO) - The Medical Action Ontology (MAxO) provides a broad view of medical actions and includes terms for medical procedures, interventions, therapies, treatments, and recommendations.
+- [Gene Ontology (GO)](https://github.com/geneontology/go-ontology) - The foundational resource for computational biology, providing a framework for the model of biology defining gene functions across species.
+- [UBERON](https://github.com/obophenotype/uberon) - An integrated cross-species anatomy ontology representing a variety of entities classified according to traditional anatomical criteria. Highly synergistic with HPO and MONDO.

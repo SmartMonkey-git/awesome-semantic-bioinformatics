@@ -1,7 +1,7 @@
 Awesome Semantic Bioinformatics is a collection of tools, libraries, data standards, and repositories aimed at bridging the gap between the Semantic Web, knowledge graphs, and the biological sciences.
 
 ## Infrastructure
-### Rust
+##### Rust
 - [ontology-registry](https://github.com/P2GX/ontology-registry) - Thread-safe, atomic downloading and local caching of OBO/BioRegistry files.
 - [ontolius](https://github.com/ielis/ontolius) - A fast and safe crate for working with biomedical ontologies.
 - [fastobo](https://github.com/fastobo/fastobo) - An OBO format parser and abstract syntax tree crate for Rust. Highly synergistic with tools like ontolius.
@@ -9,7 +9,7 @@ Awesome Semantic Bioinformatics is a collection of tools, libraries, data standa
 - [PhenoXtract](https://github.com/P2GX/PhenoXtract) - PhenoXtract is a configurable ETL (Extract-Transform-Load) pipeline and crate written in Rust for converting tabular data sources (e.g. CSV or Excel) into Phenopackets v2.0.
 - [securiety](https://github.com/SmartMonkey-git/securiety) - A robust Rust crate for parsing and validating or parsing Compact Uniform Resource Identifiers (CURIEs).
 
-### Python
+##### Python
 - [RareLink](https://github.com/BIH-CEI/rarelink) - A REDCap-based framework for rare disease interoperability linking international registries to HL7 FHIR and GA4GH Phenopackets.
 - [hpo-toolkit](https://github.com/ielis/hpo-toolkit) - A toolkit for working with Human Phenotype Ontology (HPO) and HPO disease annotations in Python.
 - [OVEr](https://github.com/P2GX/OVEr) - OVEr converts biomedical ontologies into semantic vector embedding databases, enabling accurate ontology term retrieval through natural language similarity search.
@@ -17,41 +17,41 @@ Awesome Semantic Bioinformatics is a collection of tools, libraries, data standa
 - [pronto](https://github.com/althonos/pronto) - A highly popular Python frontend to ontologies, designed to seamlessly parse OBO and OWL formats into Python objects.
 - [pyobo](https://github.com/biopragmatics/pyobo) - A comprehensive tool for downloading, standardizing, and accessing nomenclature from OBO ontologies.
 
-### Java
+##### Java
 - [ROBOT](https://github.com/ontodev/robot) - The definitive command-line tool for working with OWL ontologies. It is the gold standard used by the OBO Foundry for ontology automated builds and CI/CD pipelines.
 
-### Agnostic
+##### Agnostic
 - [BioRegistry](https://github.com/biopragmatics/bioregistry) - A community-driven integrative meta-registry of life science databases, ontologies, and other resources.
 
 ### Text Mining
-### Rust
+##### Rust
 - [fenominal](https://github.com/P2GX/fenominal) - NLP tool to extract ontology terms from free text based on the BLAST algorithm
 
-### Python
+##### Python
 - [DEFTMatcher](https://github.com/psnairne/DEFTMatcher) - Dextrous and Extensible Free Text Matcher
 
 ### Semantic Similarity
-### Rust
+##### Rust
 - [Phrank](https://github.com/SmartMonkey-git/phrank-rs) - Phrank is a high-performance, phenotype-driven similarity engine designed to calculate the similarity between patient cohorts.
 
-### Python
+##### Python
 - [Phrank](https://github.com/SmartMonkey-git/phrank-rs) - Phrank is a high-performance, phenotype-driven similarity engine designed to calculate the similarity between patient cohorts.
 - [setsim](https://github.com/P2GX/setsim) - A proof of concept of the summing similarity measure.
 
 ### Discoveries
-### Rust
+##### Rust
 - [Ontologizer](https://github.com/P2GX/ontologizer) - Fast and safe implementation of the Ontologizer — a tool for Gene Ontology (GO) enrichment analysis using Frequentist (hypergeometric test) or Bayesian (inference) methods.
 
-### Python
+##### Python
 - [gpsea](https://github.com/P2GX/gpsea) - Python package for finding genotype-phenotype associations.
 
-### Java
+##### Java
 - [maxodiff](https://github.com/P2GX/maxodiff) - Medical Action Ontology terms for differential diagnosis
 - [Exomizer](https://github.com/P2GX/Exomiser) - A Tool to Annotate and Prioritize Exome Variants
 - [LIRICAL](https://github.com/TheJacksonLaboratory/LIRICAL) - LIRICAL (LIkelihood Ratio Interpretation of Clinical AbnormaLities) is designed to provide clinically interpretable computational analysis of phenotypic abnormalities.
 
 ### Visualization
-### Python
+##### Python
 - [phenoblend](https://github.com/P2GX/phenoblend) - Phenoblend is an HPO-based phenotype–genotype visualization library.
 
 ### Standards

@@ -21,9 +21,11 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 
 ##### Python
 - [Pyphetools](https://github.com/VarenyaJ/2024-pyphetools-archive) - A mirror of the core utility for using the Python version of the phenopackets package together with pandas to create phenopackets from typical supplemental tables. **[Original Repository was removed from Github and PyPi package is under quarantine due to a worm attack](https://github.com/P2GX/prenatalppkt/issues/73)**
+- [Phenopacket Store Toolkit](https://github.com/monarch-initiative/phenopacket-store-toolkit.git) - Toolkit for accessing, Q/C, and maintenance of Phenopacket Store
 - [hpo-toolkit](https://github.com/ielis/hpo-toolkit) - A toolkit for working with Human Phenotype Ontology (HPO) and HPO disease annotations in Python.
-- [OVEr](https://github.com/P2GX/OVEr) - OVEr converts biomedical ontologies into semantic vector embedding databases, enabling accurate ontology term retrieval through natural language similarity search.
 - [oaklib](https://pypi.org/project/oaklib/) - Ontology Access Kit (OAK): A powerful Python library by the Monarch Initiative for accessing, querying, and manipulating ontologies.
+- [RareLink](https://github.com/BIH-CEI/rarelink) - A REDCap-based framework for rare disease interoperability linking international registries to HL7 FHIR and GA4GH Phenopackets.
+- [OVEr](https://github.com/P2GX/OVEr) - OVEr converts biomedical ontologies into semantic vector embedding databases, enabling accurate ontology term retrieval through natural language similarity search.
 - [pronto](https://github.com/althonos/pronto) - A highly popular Python frontend to ontologies, designed to seamlessly parse OBO and OWL formats into Python objects.
 - [pyobo](https://github.com/biopragmatics/pyobo) - A comprehensive tool for downloading, standardizing, and accessing nomenclature from OBO ontologies.
 
@@ -33,7 +35,7 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 ##### Agnostic
 - [BioRegistry](https://github.com/biopragmatics/bioregistry) - A community-driven integrative meta-registry of life science databases, ontologies, and other resources.
 
-## Phenpacket Curation
+## Phenopacket Curation
 ##### Rust
 - [PhenoXtract](https://github.com/P2GX/PhenoXtract) - PhenoXtract is a configurable ETL (Extract-Transform-Load) pipeline and crate written in Rust for converting tabular data sources (e.g. CSV or Excel) into Phenopackets v2.0.
 - [phenoboard](https://github.com/P2GX/phenoboard) - Curation of individuals with Human Phenotype Ontology and GA4GH Phenopacket Schema.
@@ -57,7 +59,7 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [Phrank](https://github.com/SmartMonkey-git/phrank-rs) - Phrank is a high-performance, phenotype-driven similarity engine designed to calculate the similarity between patient cohorts.
 - [setsim](https://github.com/P2GX/setsim) - A proof of concept of the summing similarity measure.
 
-## Discoveries
+## Statistical Tools
 ##### Rust
 - [Ontologizer](https://github.com/P2GX/ontologizer) - Fast and safe implementation of the Ontologizer — a tool for Gene Ontology (GO) enrichment analysis using Frequentist (hypergeometric test) or Bayesian (inference) methods.
 
@@ -69,6 +71,10 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [maxodiff](https://github.com/P2GX/maxodiff) - Medical Action Ontology terms for differential diagnosis
 - [Exomizer](https://github.com/exomiser/Exomiser) - A Tool to Annotate and Prioritize Exome Variants
 - [LIRICAL](https://github.com/TheJacksonLaboratory/LIRICAL) - LIRICAL (LIkelihood Ratio Interpretation of Clinical AbnormaLities) is designed to provide clinically interpretable computational analysis of phenotypic abnormalities.
+
+## Datasets and Utilities
+##### Python
+- [Phenopacket Store](https://github.com/monarch-initiative/phenopacket-store.git) - Collections of GA4GH phenopackets that represent individuals with Mendelian diseases.
 
 ## Visualization
 ##### Python

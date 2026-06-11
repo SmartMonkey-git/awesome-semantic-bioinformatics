@@ -62,6 +62,7 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [maxodiff](https://github.com/P2GX/maxodiff) - Medical Action Ontology terms for differential diagnosis
 - [Exomizer](https://github.com/P2GX/Exomiser) - A Tool to Annotate and Prioritize Exome Variants
 - [LIRICAL](https://github.com/TheJacksonLaboratory/LIRICAL) - LIRICAL (LIkelihood Ratio Interpretation of Clinical AbnormaLities) is designed to provide clinically interpretable computational analysis of phenotypic abnormalities.
+- [Exomiser](https://github.com/exomiser/Exomiser.git) - A Tool to Annotate and Prioritize Exome Variants.
 
 ## Visualization
 ##### Python

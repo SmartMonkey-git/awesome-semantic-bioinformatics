@@ -46,10 +46,10 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 
 ## Text Mining
 ##### Rust
-- [fenominal](https://github.com/P2GX/fenominal) - NLP tool to extract ontology terms from free text based on the BLAST algorithm
+- [fenominal](https://github.com/P2GX/fenominal) - NLP tool to extract ontology terms from free text based on the BLAST algorithm.
 
 ##### Python
-- [DEFTMatcher](https://github.com/psnairne/DEFTMatcher) - Dextrous and Extensible Free Text Matcher
+- [DEFTMatcher](https://github.com/psnairne/DEFTMatcher) - Dextrous and Extensible Free Text Matcher.
 
 ## Semantic Similarity
 ##### Rust
@@ -66,10 +66,11 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 ##### Python
 - [gpsea](https://github.com/P2GX/gpsea) - Python package for finding genotype-phenotype associations.
 - [ppkt2synergy](https://github.com/P2GX/ppkt2synergy) - ppkt2synergy is a Python library for analyzing correlations and synergy in GA4GH Phenopacket cohorts.
+- [PhEval](https://github.com/monarch-initiative/pheval.git) - A framework for empirical evaluation of phenotype matching and prioritisation.
 
 ##### Java
-- [maxodiff](https://github.com/P2GX/maxodiff) - Medical Action Ontology terms for differential diagnosis
-- [Exomizer](https://github.com/exomiser/Exomiser) - A Tool to Annotate and Prioritize Exome Variants
+- [maxodiff](https://github.com/P2GX/maxodiff) - Medical Action Ontology terms for differential diagnosis.
+- [Exomiser](https://github.com/exomiser/Exomiser.git) - A Tool to Annotate and Prioritize Exome Variants.
 - [LIRICAL](https://github.com/TheJacksonLaboratory/LIRICAL) - LIRICAL (LIkelihood Ratio Interpretation of Clinical AbnormaLities) is designed to provide clinically interpretable computational analysis of phenotypic abnormalities.
 
 ## Datasets and Utilities

@@ -1,6 +1,6 @@
 Awesome Semantic Bioinformatics is a collection of tools, libraries, data standards, and repositories aimed at bridging the gap between the Semantic Web, knowledge graphs, and the biological sciences.
 
-## Infrastructure
+### Infrastructure
 ##### Rust
 - [ontology-registry](https://github.com/P2GX/ontology-registry) - Thread-safe, atomic downloading and local caching of OBO/BioRegistry files.
 - [ontolius](https://github.com/ielis/ontolius) - A fast and safe crate for working with biomedical ontologies.

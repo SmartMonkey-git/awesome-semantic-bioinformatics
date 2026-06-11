@@ -21,10 +21,11 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [drug-central-rs](https://github.com/SmartMonkey-git/drug-central-rs) - A Rust library for automating the setup, management, and querying of a DrugCentral PostgreSQL database.
 
 ##### Python
-- [RareLink](https://github.com/BIH-CEI/rarelink) - A REDCap-based framework for rare disease interoperability linking international registries to HL7 FHIR and GA4GH Phenopackets.
+- [Phenopacket Store Toolkit](https://github.com/monarch-initiative/phenopacket-store-toolkit.git) - Toolkit for accessing, Q/C, and maintenance of Phenopacket Store
 - [hpo-toolkit](https://github.com/ielis/hpo-toolkit) - A toolkit for working with Human Phenotype Ontology (HPO) and HPO disease annotations in Python.
-- [OVEr](https://github.com/P2GX/OVEr) - OVEr converts biomedical ontologies into semantic vector embedding databases, enabling accurate ontology term retrieval through natural language similarity search.
 - [oaklib](https://pypi.org/project/oaklib/) - Ontology Access Kit (OAK): A powerful Python library by the Monarch Initiative for accessing, querying, and manipulating ontologies.
+- [RareLink](https://github.com/BIH-CEI/rarelink) - A REDCap-based framework for rare disease interoperability linking international registries to HL7 FHIR and GA4GH Phenopackets.
+- [OVEr](https://github.com/P2GX/OVEr) - OVEr converts biomedical ontologies into semantic vector embedding databases, enabling accurate ontology term retrieval through natural language similarity search.
 - [pronto](https://github.com/althonos/pronto) - A highly popular Python frontend to ontologies, designed to seamlessly parse OBO and OWL formats into Python objects.
 - [pyobo](https://github.com/biopragmatics/pyobo) - A comprehensive tool for downloading, standardizing, and accessing nomenclature from OBO ontologies.
 
@@ -54,8 +55,6 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [Ontologizer](https://github.com/P2GX/ontologizer) - Fast and safe implementation of the Ontologizer — a tool for Gene Ontology (GO) enrichment analysis using Frequentist (hypergeometric test) or Bayesian (inference) methods.
 
 ##### Python
-- [Phenopacket Store](https://github.com/monarch-initiative/phenopacket-store.git) - Collections of GA4GH phenopackets that represent individuals with Mendelian diseases.
-- [Phenopacket Store Toolkit](https://github.com/monarch-initiative/phenopacket-store-toolkit.git) - Toolkit for accessing, Q/C, and maintenance of Phenopacket Store
 - [gpsea](https://github.com/P2GX/gpsea) - Python package for finding genotype-phenotype associations.
 - [ppkt2synergy](https://github.com/P2GX/ppkt2synergy) - ppkt2synergy is a Python library for analyzing correlations and synergy in GA4GH Phenopacket cohorts.
 
@@ -63,6 +62,10 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [maxodiff](https://github.com/P2GX/maxodiff) - Medical Action Ontology terms for differential diagnosis
 - [Exomizer](https://github.com/P2GX/Exomiser) - A Tool to Annotate and Prioritize Exome Variants
 - [LIRICAL](https://github.com/TheJacksonLaboratory/LIRICAL) - LIRICAL (LIkelihood Ratio Interpretation of Clinical AbnormaLities) is designed to provide clinically interpretable computational analysis of phenotypic abnormalities.
+
+## Datasets and Utilities
+##### Python
+- [Phenopacket Store](https://github.com/monarch-initiative/phenopacket-store.git) - Collections of GA4GH phenopackets that represent individuals with Mendelian diseases.
 
 ## Visualization
 ##### Python

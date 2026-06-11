@@ -56,6 +56,7 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 ##### Python
 - [gpsea](https://github.com/P2GX/gpsea) - Python package for finding genotype-phenotype associations.
 - [ppkt2synergy](https://github.com/P2GX/ppkt2synergy) - ppkt2synergy is a Python library for analyzing correlations and synergy in GA4GH Phenopacket cohorts.
+- [PhEval](https://github.com/monarch-initiative/pheval.git) - A framework for empirical evaluation of phenotype matching and prioritisation.
 
 ##### Java
 - [maxodiff](https://github.com/P2GX/maxodiff) - Medical Action Ontology terms for differential diagnosis

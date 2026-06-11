@@ -1,4 +1,14 @@
-Awesome Semantic Bioinformatics is a collection of tools, libraries, data standards, and repositories aimed at bridging the gap between the Semantic Web, knowledge graphs, and the biological sciences.
+# Awesome Semantic Bioinformatics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated collection of tools, libraries, data standards, and repositories aimed at bridging the gap between the Semantic Web, knowledge graphs, and the biological sciences.
+
+## Table of Contents
+- [Infrastructure](#infrastructure)
+- [Text Mining](#text-mining)
+- [Semantic Similarity](#semantic-similarity)
+- [Discoveries](#discoveries)
+- [Visualization](#visualization)
+- [Standards](#standards)
+- [Ontologies](#ontologies)
 
 ## Infrastructure
 ##### Rust

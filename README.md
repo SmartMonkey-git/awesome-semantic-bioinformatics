@@ -8,8 +8,7 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [Semantic Similarity](#semantic-similarity)
 - [Discoveries](#discoveries)
 - [Visualization](#visualization)
-- [Standards](#standards)
-- [Ontologies](#ontologies)
+- [Resources](#resources)
 
 ## Infrastructure
 ##### Rust
@@ -73,20 +72,20 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [Exomiser](https://github.com/exomiser/Exomiser.git) - A Tool to Annotate and Prioritize Exome Variants.
 - [LIRICAL](https://github.com/TheJacksonLaboratory/LIRICAL) - LIRICAL (LIkelihood Ratio Interpretation of Clinical AbnormaLities) is designed to provide clinically interpretable computational analysis of phenotypic abnormalities.
 
-## Datasets and Utilities
-##### Python
-- [Phenopacket Store](https://github.com/monarch-initiative/phenopacket-store.git) - Collections of GA4GH phenopackets that represent individuals with Mendelian diseases.
-
 ## Visualization
 ##### Python
 - [phenoblend](https://github.com/P2GX/phenoblend) - Phenoblend is an HPO-based phenotype–genotype visualization library.
 
-## Standards
+## Resources
+#### Datasets
+- [Phenopacket Store](https://github.com/monarch-initiative/phenopacket-store.git) - Collections of GA4GH phenopackets that represent individuals with Mendelian diseases.
+
+#### Standards
 - [Phenopackets](https://github.com/ga4gh/phenopacket-schema) - An open standard for sharing disease and phenotype information.
 - [Biolink Model](https://github.com/biolink/biolink-model) - A high-level, open-source data model for the standardization of biological and biomedical knowledge graphs.
 - [OBO Foundry](https://github.com/OBOFoundry/OBOFoundry.github.io) - The Open Biological and Biomedical Ontology (OBO) Foundry principles, which set the gold standard for interoperable biological ontologies.
 
-## Ontologies
+#### Ontologies
 - [HPO](https://github.com/obophenotype/human-phenotype-ontology) - The Human Phenotype Ontology (HPO) provides a standardized vocabulary of phenotypic abnormalities encountered in human disease.
 - [MONDO](https://github.com/monarch-initiative/mondo) - MonDO (Monarch Disease Ontology) is a semi-automatically constructed ontology that merges in multiple disease resources to yield a coherent merged ontology.
 - [MAxO](https://github.com/monarch-initiative/MAxO) - The Medical Action Ontology (MAxO) provides a broad view of medical actions and includes terms for medical procedures, interventions, therapies, treatments, and recommendations.

@@ -1,6 +1,6 @@
 Awesome Semantic Bioinformatics is a collection of tools, libraries, data standards, and repositories aimed at bridging the gap between the Semantic Web, knowledge graphs, and the biological sciences.
 
-### Infrastructure
+## Infrastructure
 ##### Rust
 - [ontology-registry](https://github.com/P2GX/ontology-registry) - Thread-safe, atomic downloading and local caching of OBO/BioRegistry files.
 - [ontolius](https://github.com/ielis/ontolius) - A fast and safe crate for working with biomedical ontologies.
@@ -23,14 +23,14 @@ Awesome Semantic Bioinformatics is a collection of tools, libraries, data standa
 ##### Agnostic
 - [BioRegistry](https://github.com/biopragmatics/bioregistry) - A community-driven integrative meta-registry of life science databases, ontologies, and other resources.
 
-### Text Mining
+## Text Mining
 ##### Rust
 - [fenominal](https://github.com/P2GX/fenominal) - NLP tool to extract ontology terms from free text based on the BLAST algorithm
 
 ##### Python
 - [DEFTMatcher](https://github.com/psnairne/DEFTMatcher) - Dextrous and Extensible Free Text Matcher
 
-### Semantic Similarity
+## Semantic Similarity
 ##### Rust
 - [Phrank](https://github.com/SmartMonkey-git/phrank-rs) - Phrank is a high-performance, phenotype-driven similarity engine designed to calculate the similarity between patient cohorts.
 
@@ -38,7 +38,7 @@ Awesome Semantic Bioinformatics is a collection of tools, libraries, data standa
 - [Phrank](https://github.com/SmartMonkey-git/phrank-rs) - Phrank is a high-performance, phenotype-driven similarity engine designed to calculate the similarity between patient cohorts.
 - [setsim](https://github.com/P2GX/setsim) - A proof of concept of the summing similarity measure.
 
-### Discoveries
+## Discoveries
 ##### Rust
 - [Ontologizer](https://github.com/P2GX/ontologizer) - Fast and safe implementation of the Ontologizer — a tool for Gene Ontology (GO) enrichment analysis using Frequentist (hypergeometric test) or Bayesian (inference) methods.
 
@@ -50,16 +50,16 @@ Awesome Semantic Bioinformatics is a collection of tools, libraries, data standa
 - [Exomizer](https://github.com/P2GX/Exomiser) - A Tool to Annotate and Prioritize Exome Variants
 - [LIRICAL](https://github.com/TheJacksonLaboratory/LIRICAL) - LIRICAL (LIkelihood Ratio Interpretation of Clinical AbnormaLities) is designed to provide clinically interpretable computational analysis of phenotypic abnormalities.
 
-### Visualization
+## Visualization
 ##### Python
 - [phenoblend](https://github.com/P2GX/phenoblend) - Phenoblend is an HPO-based phenotype–genotype visualization library.
 
-### Standards
+## Standards
 - [Phenopackets](https://github.com/ga4gh/phenopacket-schema) - An open standard for sharing disease and phenotype information.
 - [Biolink Model](https://github.com/biolink/biolink-model) - A high-level, open-source data model for the standardization of biological and biomedical knowledge graphs.
 - [OBO Foundry](https://github.com/OBOFoundry/OBOFoundry.github.io) - The Open Biological and Biomedical Ontology (OBO) Foundry principles, which set the gold standard for interoperable biological ontologies.
 
-### Ontologies
+## Ontologies
 - [HPO](https://github.com/obophenotype/human-phenotype-ontology) - The Human Phenotype Ontology (HPO) provides a standardized vocabulary of phenotypic abnormalities encountered in human disease.
 - [MONDO](https://github.com/monarch-initiative/monarch-disease-ontology-RETIRED) - MonDO (Monarch Disease Ontology) is a semi-automatically constructed ontology that merges in multiple disease resources to yield a coherent merged ontology.
 - [MAxO](https://github.com/monarch-initiative/MAxO) - The Medical Action Ontology (MAxO) provides a broad view of medical actions and includes terms for medical procedures, interventions, therapies, treatments, and recommendations.

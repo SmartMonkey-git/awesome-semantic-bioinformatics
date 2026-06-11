@@ -44,10 +44,10 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 
 ## Text Mining
 ##### Rust
-- [fenominal](https://github.com/P2GX/fenominal) - NLP tool to extract ontology terms from free text based on the BLAST algorithm
+- [fenominal](https://github.com/P2GX/fenominal) - NLP tool to extract ontology terms from free text based on the BLAST algorithm.
 
 ##### Python
-- [DEFTMatcher](https://github.com/psnairne/DEFTMatcher) - Dextrous and Extensible Free Text Matcher
+- [DEFTMatcher](https://github.com/psnairne/DEFTMatcher) - Dextrous and Extensible Free Text Matcher.
 
 ## Semantic Similarity
 ##### Rust
@@ -67,8 +67,8 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [PhEval](https://github.com/monarch-initiative/pheval.git) - A framework for empirical evaluation of phenotype matching and prioritisation.
 
 ##### Java
-- [maxodiff](https://github.com/P2GX/maxodiff) - Medical Action Ontology terms for differential diagnosis
-- [Exomiser](https://github.com/exomiser/Exomiser.git)
+- [maxodiff](https://github.com/P2GX/maxodiff) - Medical Action Ontology terms for differential diagnosis.
+- [Exomiser](https://github.com/exomiser/Exomiser.git) - A Tool to Annotate and Prioritize Exome Variants.
 - [LIRICAL](https://github.com/TheJacksonLaboratory/LIRICAL) - LIRICAL (LIkelihood Ratio Interpretation of Clinical AbnormaLities) is designed to provide clinically interpretable computational analysis of phenotypic abnormalities.
 
 ## Visualization

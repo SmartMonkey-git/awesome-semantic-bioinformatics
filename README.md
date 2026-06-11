@@ -3,6 +3,7 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 
 ## Table of Contents
 - [Infrastructure](#infrastructure)
+- [Phenpacket Curation](#phenpacket-curation)
 - [Text Mining](#text-mining)
 - [Semantic Similarity](#semantic-similarity)
 - [Discoveries](#discoveries)
@@ -15,26 +16,31 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [ontology-registry](https://github.com/P2GX/ontology-registry) - Thread-safe, atomic downloading and local caching of OBO/BioRegistry files.
 - [ontolius](https://github.com/ielis/ontolius) - A fast and safe crate for working with biomedical ontologies.
 - [fastobo](https://github.com/fastobo/fastobo) - An OBO format parser and abstract syntax tree crate for Rust. Highly synergistic with tools like ontolius.
-- [phenoboard](https://github.com/P2GX/phenoboard) - Curation of individuals with Human Phenotype Ontology and GA4GH Phenopacket Schema.
-- [PhenoXtract](https://github.com/P2GX/PhenoXtract) - PhenoXtract is a configurable ETL (Extract-Transform-Load) pipeline and crate written in Rust for converting tabular data sources (e.g. CSV or Excel) into Phenopackets v2.0.
 - [securiety](https://github.com/SmartMonkey-git/securiety) - A robust Rust crate for parsing and validating or parsing Compact Uniform Resource Identifiers (CURIEs).
 - [drug-central-rs](https://github.com/SmartMonkey-git/drug-central-rs) - A Rust library for automating the setup, management, and querying of a DrugCentral PostgreSQL database.
 
 ##### Python
 - [Pyphetools](https://github.com/VarenyaJ/2024-pyphetools-archive) - A mirror of the core utility for using the Python version of the phenopackets package together with pandas to create phenopackets from typical supplemental tables. **[Original Repository was removed from Github and PyPi package is under quarantine due to a worm attack](https://github.com/P2GX/prenatalppkt/issues/73)**
-- [RareLink](https://github.com/BIH-CEI/rarelink) - A REDCap-based framework for rare disease interoperability linking international registries to HL7 FHIR and GA4GH Phenopackets.
 - [hpo-toolkit](https://github.com/ielis/hpo-toolkit) - A toolkit for working with Human Phenotype Ontology (HPO) and HPO disease annotations in Python.
 - [OVEr](https://github.com/P2GX/OVEr) - OVEr converts biomedical ontologies into semantic vector embedding databases, enabling accurate ontology term retrieval through natural language similarity search.
 - [oaklib](https://pypi.org/project/oaklib/) - Ontology Access Kit (OAK): A powerful Python library by the Monarch Initiative for accessing, querying, and manipulating ontologies.
 - [pronto](https://github.com/althonos/pronto) - A highly popular Python frontend to ontologies, designed to seamlessly parse OBO and OWL formats into Python objects.
 - [pyobo](https://github.com/biopragmatics/pyobo) - A comprehensive tool for downloading, standardizing, and accessing nomenclature from OBO ontologies.
-- [PrenatalPPKT](https://github.com/P2GX/prenatalppkt.git) - A Python library for transforming raw prenatal sonography data into standardized GA4GH Phenopackets v2
 
 ##### Java
 - [ROBOT](https://github.com/ontodev/robot) - The definitive command-line tool for working with OWL ontologies. It is the gold standard used by the OBO Foundry for ontology automated builds and CI/CD pipelines.
 
 ##### Agnostic
 - [BioRegistry](https://github.com/biopragmatics/bioregistry) - A community-driven integrative meta-registry of life science databases, ontologies, and other resources.
+
+## Phenpacket Curation
+##### Rust
+- [PhenoXtract](https://github.com/P2GX/PhenoXtract) - PhenoXtract is a configurable ETL (Extract-Transform-Load) pipeline and crate written in Rust for converting tabular data sources (e.g. CSV or Excel) into Phenopackets v2.0.
+- [phenoboard](https://github.com/P2GX/phenoboard) - Curation of individuals with Human Phenotype Ontology and GA4GH Phenopacket Schema.
+
+##### Python
+- [RareLink](https://github.com/BIH-CEI/rarelink) - A REDCap-based framework for rare disease interoperability linking international registries to HL7 FHIR and GA4GH Phenopackets.
+- [PrenatalPPKT](https://github.com/P2GX/prenatalppkt.git) - A Python library for transforming raw prenatal sonography data into standardized GA4GH Phenopackets v2
 
 ## Text Mining
 ##### Rust

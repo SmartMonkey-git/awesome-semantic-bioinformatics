@@ -54,6 +54,8 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [Ontologizer](https://github.com/P2GX/ontologizer) - Fast and safe implementation of the Ontologizer — a tool for Gene Ontology (GO) enrichment analysis using Frequentist (hypergeometric test) or Bayesian (inference) methods.
 
 ##### Python
+- [Phenopacket Store](https://github.com/monarch-initiative/phenopacket-store.git) - Collections of GA4GH phenopackets that represent individuals with Mendelian diseases.
+- [Phenopacket Store Toolkit](https://github.com/monarch-initiative/phenopacket-store-toolkit.git) - Toolkit for accessing, Q/C, and maintenance of Phenopacket Store
 - [gpsea](https://github.com/P2GX/gpsea) - Python package for finding genotype-phenotype associations.
 - [ppkt2synergy](https://github.com/P2GX/ppkt2synergy) - ppkt2synergy is a Python library for analyzing correlations and synergy in GA4GH Phenopacket cohorts.
 

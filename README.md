@@ -21,6 +21,7 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [drug-central-rs](https://github.com/SmartMonkey-git/drug-central-rs) - A Rust library for automating the setup, management, and querying of a DrugCentral PostgreSQL database.
 
 ##### Python
+- [Pyphetools](https://github.com/VarenyaJ/2024-pyphetools-archive) - A mirror of the core utility for using the Python version of the phenopackets package together with pandas to create phenopackets from typical supplemental tables. **[Original Repository was removed from Github and PyPi package is under quarantine due to a worm attack](https://github.com/P2GX/prenatalppkt/issues/73)**
 - [RareLink](https://github.com/BIH-CEI/rarelink) - A REDCap-based framework for rare disease interoperability linking international registries to HL7 FHIR and GA4GH Phenopackets.
 - [hpo-toolkit](https://github.com/ielis/hpo-toolkit) - A toolkit for working with Human Phenotype Ontology (HPO) and HPO disease annotations in Python.
 - [OVEr](https://github.com/P2GX/OVEr) - OVEr converts biomedical ontologies into semantic vector embedding databases, enabling accurate ontology term retrieval through natural language similarity search.

@@ -32,6 +32,7 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 
 ##### Agnostic
 - [BioRegistry](https://github.com/biopragmatics/bioregistry) - A community-driven integrative meta-registry of life science databases, ontologies, and other resources.
+- [Protege](https://github.com/protegeproject/protege) - Protege is a free, open-source ontology editor that supports the latest OWL 2.0 standard.
 
 ## Phenopacket Curation
 ##### Rust

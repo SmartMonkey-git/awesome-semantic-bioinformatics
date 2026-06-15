@@ -17,9 +17,10 @@ A curated collection of tools, libraries, data standards, and repositories aimed
 - [fastobo](https://github.com/fastobo/fastobo) - An OBO format parser and abstract syntax tree crate for Rust. Highly synergistic with tools like ontolius.
 - [securiety](https://github.com/SmartMonkey-git/securiety) - A robust Rust crate for parsing and validating or parsing Compact Uniform Resource Identifiers (CURIEs).
 - [drug-central-rs](https://github.com/SmartMonkey-git/drug-central-rs) - A Rust library for automating the setup, management, and querying of a DrugCentral PostgreSQL database.
+- [bitdag](https://github.com/SmartMonkey-git/bitdag) - A fast, memory-efficient Directed Acyclic Graph (DAG) representation in Rust, optimized for lightning-fast relationship queries using dense bit matrices.
 
 ##### Python
-- [Pyphetools](https://github.com/VarenyaJ/2024-pyphetools-archive) - A mirror of the core utility for using the Python version of the phenopackets package together with pandas to create phenopackets from typical supplemental tables. **[Original Repository was removed from Github and PyPi package is under quarantine due to a worm attack](https://github.com/P2GX/prenatalppkt/issues/73)**
+- [Pyphetools](https://github.com/phenopackets/phenopacket-tools) - Phenopacket-tools is an open-source Java library and command-line interface (CLI) application for construction, conversion, and validation of phenopackets.
 - [Phenopacket Store Toolkit](https://github.com/monarch-initiative/phenopacket-store-toolkit.git) - Toolkit for accessing, Q/C, and maintenance of Phenopacket Store
 - [hpo-toolkit](https://github.com/ielis/hpo-toolkit) - A toolkit for working with Human Phenotype Ontology (HPO) and HPO disease annotations in Python.
 - [oaklib](https://pypi.org/project/oaklib/) - Ontology Access Kit (OAK): A powerful Python library by the Monarch Initiative for accessing, querying, and manipulating ontologies.
